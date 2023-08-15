@@ -4,6 +4,8 @@
   <br>
   <a href="https://github.com/coding-smit/DaddyBomber"><img src="https://horoshop.ua/content/images/16/kak-sdelat-chtoby-pisma-ne-popadali-v-spam-11248663734326.jpg" alt="DaddyBomber"></a>
   <br>
+  WHITEHAT 
+  
   DaddyBomber⚡⚡⚡
   
 </h1>
@@ -54,7 +56,7 @@
 * `pkg install python`
 * `pkg install python2`
 * `pkg install git`
-* `git clone https://github.com/coding-smit/DaddyBomber//`Piy`
+* `git clone https://github.com/coding-smit/DaddyBomber`
 * `ls`
 * `cd DaddyBomber`
 * `pip2 install -r requirements.txt`
